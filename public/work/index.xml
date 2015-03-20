@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on My New Hugo Site</title>
+    <link>http://localhost:1313/work/</link>
+    <description>Recent content in Works on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2015 15:31:11 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>contenido</title>
+      <link>http://localhost:1313/work/contenido/</link>
+      <pubDate>Thu, 19 Mar 2015 15:31:11 -0500</pubDate>
+      
+      <guid>http://localhost:1313/work/contenido/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;#&#34;&gt;&lt;img src=&#34;assets/img/p01.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>contenido</title>
+      <link>http://localhost:1313/work/contenthree/</link>
+      <pubDate>Thu, 19 Mar 2015 15:31:11 -0500</pubDate>
+      
+      <guid>http://localhost:1313/work/contenthree/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;#&#34;&gt;&lt;img src=&#34;assets/img/p02.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>contenido</title>
+      <link>http://localhost:1313/work/contentwo/</link>
+      <pubDate>Thu, 19 Mar 2015 15:31:11 -0500</pubDate>
+      
+      <guid>http://localhost:1313/work/contentwo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;#&#34;&gt;&lt;img src=&#34;assets/img/p03.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

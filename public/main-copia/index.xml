@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Main-Copia on My New Hugo Site</title>
+    <link>http://localhost:1313/main-copia/</link>
+    <description>Recent content in Main-Copia on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2015 15:54:29 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/main-copia/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>main</title>
+      <link>http://localhost:1313/main%20%28copia%29/main/</link>
+      <pubDate>Thu, 19 Mar 2015 15:54:29 -0500</pubDate>
+      
+      <guid>http://localhost:1313/main%20%28copia%29/main/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fa fa-laptop&#34;&gt;&lt;/i&gt;&lt;br&gt;
+Holaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>main</title>
+      <link>http://localhost:1313/main%20%28copia%29/support/</link>
+      <pubDate>Thu, 19 Mar 2015 15:54:29 -0500</pubDate>
+      
+      <guid>http://localhost:1313/main%20%28copia%29/support/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fa fa-trophy&#34;&gt;&lt;/i&gt;&lt;br&gt;
+Holaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>contenido</title>
+      <link>http://localhost:1313/main%20%28copia%29/contenido/</link>
+      <pubDate>Thu, 19 Mar 2015 15:31:11 -0500</pubDate>
+      
+      <guid>http://localhost:1313/main%20%28copia%29/contenido/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fa fa-heart&#34;&gt;&lt;/i&gt;&lt;br&gt;
+Holaaaaaaaaaaaaaaaaaaaaaaaaaaaaa Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
